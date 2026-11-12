@@ -1,0 +1,100 @@
+{
+  "id": "com.flickertalk.remind",
+  "name": "Reminders",
+  "version": "1.0.1",
+  "icon": "alarm-outline",
+  "minCoreVersion": "1.6.0",
+  "components": [
+    "ft-remind"
+  ],
+  "permissions": {
+    "messages": "given",
+    "remind": true
+  },
+  "opens": [
+    "text/plain"
+  ],
+  "summary": "Set a reminder on a message: a notification for you alone, kept on this phone.",
+  "locales": {
+    "es": {
+      "name": "Recordatorios",
+      "summary": "Pon un recordatorio a un mensaje: un aviso solo para ti, guardado en este teléfono."
+    },
+    "pt": {
+      "name": "Lembretes",
+      "summary": "Crie um lembrete para uma mensagem: um aviso só para você, guardado neste telefone."
+    },
+    "fr": {
+      "name": "Rappels",
+      "summary": "Mettez un rappel sur un message : une notification pour vous seul, gardée sur ce téléphone."
+    },
+    "de": {
+      "name": "Erinnerungen",
+      "summary": "Eine Erinnerung an eine Nachricht: eine Benachrichtigung nur für dich, auf diesem Telefon gespeichert."
+    },
+    "it": {
+      "name": "Promemoria",
+      "summary": "Metti un promemoria su un messaggio: una notifica solo per te, conservata su questo telefono."
+    },
+    "ro": {
+      "name": "Mementouri",
+      "summary": "Pune un memento pe un mesaj: o notificare doar pentru tine, păstrată pe acest telefon."
+    },
+    "ru": {
+      "name": "Напоминания",
+      "summary": "Напоминание о сообщении: уведомление только для вас, хранится на этом телефоне."
+    },
+    "uk": {
+      "name": "Нагадування",
+      "summary": "Нагадування про повідомлення: сповіщення лише для вас, зберігається на цьому телефоні."
+    },
+    "pl": {
+      "name": "Przypomnienia",
+      "summary": "Przypomnienie o wiadomości: powiadomienie tylko dla ciebie, zapisane na tym telefonie."
+    },
+    "tr": {
+      "name": "Hatırlatıcılar",
+      "summary": "Bir mesaja hatırlatıcı kurun: yalnızca size bir bildirim, bu telefonda saklanır."
+    },
+    "ar": {
+      "name": "التذكيرات",
+      "summary": "ضع تذكيرًا على رسالة: إشعار لك وحدك، محفوظ على هذا الهاتف."
+    },
+    "hi": {
+      "name": "रिमाइंडर",
+      "summary": "किसी संदेश पर रिमाइंडर लगाएँ: सिर्फ़ आपके लिए एक सूचना, इसी फ़ोन पर रखी जाती है।"
+    },
+    "bn": {
+      "name": "রিমাইন্ডার",
+      "summary": "কোনো মেসেজে রিমাইন্ডার দিন: শুধু আপনার জন্য একটি বিজ্ঞপ্তি, এই ফোনেই রাখা থাকে।"
+    },
+    "id": {
+      "name": "Pengingat",
+      "summary": "Pasang pengingat pada pesan: notifikasi hanya untuk Anda, tersimpan di ponsel ini."
+    },
+    "vi": {
+      "name": "Lời nhắc",
+      "summary": "Đặt lời nhắc cho một tin nhắn: thông báo chỉ dành cho bạn, được lưu trên điện thoại này."
+    },
+    "th": {
+      "name": "การเตือน",
+      "summary": "ตั้งการเตือนให้ข้อความ: การแจ้งเตือนสำหรับคุณคนเดียว เก็บไว้ในโทรศัพท์เครื่องนี้"
+    },
+    "ja": {
+      "name": "リマインダー",
+      "summary": "メッセージにリマインダーを設定。通知はあなただけに届き、この端末に保存されます。"
+    },
+    "ko": {
+      "name": "리마인더",
+      "summary": "메시지에 리마인더를 설정하세요. 나만 받는 알림으로, 이 휴대폰에 저장됩니다."
+    },
+    "zh-CN": {
+      "name": "提醒",
+      "summary": "为消息设置提醒：只通知你自己，保存在这部手机上。"
+    },
+    "zh-TW": {
+      "name": "提醒",
+      "summary": "為訊息設定提醒：只通知你自己，保存在這支手機上。"
+    }
+  }
+}
